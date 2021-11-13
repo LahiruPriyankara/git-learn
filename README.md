@@ -1,4 +1,4 @@
 # git-learn
 
 Only the purpose of git command learning..
-remote repository
+this is my remote repository
