@@ -1,4 +1,4 @@
 # git-learn
 
 Only the purpose of git command learning..
-remote change 1
+local change 1
