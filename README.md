@@ -1,6 +1,6 @@
 # git-learn
 
 Only the purpose of git command learning..
-Remote repo
+Remote repository
 remote change
 last line
